@@ -3,7 +3,7 @@
 ## Project Overview
 This project demonstrates a hands-on Blue Team investigation using Splunk SIEM within a Windows environment. The objective was to identify malicious activity, correlate indicators of compromise (IOCs), and document the complete attack lifecycle from initial compromise to data exfiltration.
 
-![Project Architecture](./Screenshots/arch.png)
+![Project Architecture](./screenshot/arch.png)
 
 ## Tools Used
 - Splunk SIEM
